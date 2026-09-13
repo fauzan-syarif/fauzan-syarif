@@ -22,8 +22,11 @@ Research-focused profile for academic, PhD, and computational biomedical researc
   <a href="mailto:fauzanresearchermedit@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://github.com/fauzan-syarif">
+    <img src="https://img.shields.io/badge/GitHub-fauzan--syarif-181717?style=flat-square&logo=github&logoColor=white" alt="Personal GitHub"/>
+  </a>
   <a href="https://github.com/kit-cml">
-    <img src="https://img.shields.io/badge/GitHub-KIT--CML-181717?style=flat-square&logo=github&logoColor=white" alt="KIT-CML GitHub"/>
+    <img src="https://img.shields.io/badge/Research%20Group-KIT--CML-181717?style=flat-square&logo=github&logoColor=white" alt="KIT-CML GitHub"/>
   </a>
 </p>
 
@@ -33,6 +36,23 @@ Research-focused profile for academic, PhD, and computational biomedical researc
 </p>
 
 </div>
+
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#research-snapshot">Research</a> •
+  <a href="#featured-research--open-source-projects">Projects</a> •
+  <a href="#selected-publications">Publications</a> •
+  <a href="#technical-stack">Skills</a> •
+  <a href="#research-experience">Experience</a> •
+  <a href="#selected-honors--awards">Awards</a> •
+  <a href="#lets-connect">Contact</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/fauzan-syarif">
+    <img src="https://komarev.com/ghpvc/?username=fauzan-syarif&label=Profile%20Views&style=flat-square" alt="Profile views"/>
+  </a>
+</p>
 
 ---
 
@@ -64,6 +84,34 @@ I am particularly interested in building computational models that are not only 
 ---
 
 # Featured Research & Open-Source Projects
+
+<p align="center">
+  <a href="https://github.com/kit-cml/ToxCML-Hybrid-mfCoQ-RASAR">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kit-cml&repo=ToxCML-Hybrid-mfCoQ-RASAR&hide_border=true&theme=transparent" alt="ToxCML repository"/>
+  </a>
+  <a href="https://github.com/kit-cml/QSAR-consensus-framework-study">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kit-cml&repo=QSAR-consensus-framework-study&hide_border=true&theme=transparent" alt="Consensus QSAR repository"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kit-cml/CardiosimTox_code">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kit-cml&repo=CardiosimTox_code&hide_border=true&theme=transparent" alt="Cardiosim-Tox repository"/>
+  </a>
+  <a href="https://github.com/kit-cml/ProCMT-QSAR">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kit-cml&repo=ProCMT-QSAR&hide_border=true&theme=transparent" alt="ProCMT-QSAR repository"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kit-cml/QSAR-Consensus-Systemic_Local_Toxicity">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kit-cml&repo=QSAR-Consensus-Systemic_Local_Toxicity&hide_border=true&theme=transparent" alt="Systemic and Local Toxicity QSAR repository"/>
+  </a>
+</p>
+
+> The repositories above are hosted under the **KIT-CML** research organization and represent research projects to which I contributed.
+
+---
 
 ## 1. ToxCML — Hybrid mfCoQ-RASAR
 
@@ -491,11 +539,17 @@ AI for Drug Discovery
 
 # Let's Connect
 
+**Personal GitHub:** [github.com/fauzan-syarif](https://github.com/fauzan-syarif)  
+**Research repositories:** [github.com/kit-cml](https://github.com/kit-cml)
+
 I am open to research collaboration in:
 
 **AI for Drug Discovery · Computational Toxicology · QSAR · Bioinformatics · Chemoinformatics · Biomedical AI · Single-Cell Modeling · Digital Twins**
 
 <p align="center">
+  <a href="https://github.com/fauzan-syarif">
+    <img src="https://img.shields.io/badge/GitHub-fauzan--syarif-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="mailto:fauzanresearchermedit@gmail.com">
     <img src="https://img.shields.io/badge/Email-fauzanresearchermedit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -512,3 +566,15 @@ I am open to research collaboration in:
 ### Building interpretable and reproducible AI for biomedical research and drug safety.
 
 </div>
+
+
+<!--
+OPTIONAL GITHUB ACTIVITY WIDGETS
+Uncomment these only if you want coding-activity statistics visible on the profile.
+For a research-focused profile, the publication/project sections above are intentionally prioritized.
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fauzan-syarif&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent" />
+  <img height="165" src="https://streak-stats.demolab.com?user=fauzan-syarif&hide_border=true&theme=transparent" />
+</p>
+-->
