@@ -52,7 +52,7 @@ My research philosophy is simple:
 - **Computational Toxicology**
 - **QSAR & ADMET Modeling**
 - **Chemoinformatics**
-- **Bioinformatics & Single-Cell Analysis**
+- **Bioinformatics, Single-Cell Analysis & Foundation Models**
 - **Machine & Deep Learning**
 - **Explainable AI**
 - **Applicability Domain & Model Reliability**
@@ -180,6 +180,33 @@ A target-aware QSAR framework for endocrine-disrupting chemical toxicity predict
 
 ---
 
+## HeteroSC
+
+**Adapter-Based Integration and Orchestration of Complementary Single-Cell Foundation Model Experts**
+
+[![Repository](https://img.shields.io/badge/Repository-View%20Code-181717?style=flat-square&logo=github)](https://github.com/kit-cml/HeteroSC_code)
+[![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23153537.svg)](https://doi.org/10.5281/zenodo.23153537)
+![Status](https://img.shields.io/badge/Status-Manuscript%20Under%20Review-D97706?style=flat-square)
+
+An adaptive expert-orchestration framework that integrates multiple **frozen single-cell foundation models** (Geneformer, scGPT, CellFM, and scFoundation) through **expert-specific adapters** and an **input-dependent router**, evaluated on cell type annotation, gene perturbation prediction, and unseen-drug response prediction.
+
+**Research components**
+- Four frozen single-cell foundation models as experts
+- Expert-specific adapters into a shared latent space
+- AdaptiveRouter with input-dependent expert weights
+- Uniform-fusion control to isolate the effect of routing
+- Cell type annotation across five scRNA-seq datasets
+- Gene perturbation prediction with GEARS (Norman and Adamson)
+- Leave-drug-out drug response prediction (GDSC and CCLE)
+- Routing analysis, open-source code, tutorial notebooks, and Zenodo data
+
+**Manuscript**  
+**F. S. Nursyafi**, U. L. Hanum, Y. N. Fuadah, K. M. Lim.  
+*Can Heterogeneous Single-Cell Foundation Models Work Better Together? HeteroSC for Adapter-Based Integration and Orchestration of Complementary ScFM Experts.*  
+**Status:** Under review.
+
+---
+
 ## Consensus QSAR for Systemic & Local Toxicity
 
 **Consensus Machine Learning for Toxicity Prediction**
@@ -259,10 +286,11 @@ A. A. Rahman, **F. S. Nursyafi**, L. S. Aliya, I. M. Hasibuan, Y. Alioes, E. End
 **Under review — Nature Chemical Biology**
 
 ### HeteroSC
-**F. S. Nursyafi**, K. M. Lim.  
-*HeteroSC: A Task-Adaptive Routing Framework for Heterogeneous Single-Cell Foundation Model Fusion.*
+**F. S. Nursyafi**, U. L. Hanum, Y. N. Fuadah, K. M. Lim.  
+*Can Heterogeneous Single-Cell Foundation Models Work Better Together? HeteroSC for Adapter-Based Integration and Orchestration of Complementary ScFM Experts.*
 
-**Under review — Nature Biomedical Engineering**
+**Under review — Nature Biomedical Engineering**  
+[Code](https://github.com/kit-cml/HeteroSC_code) · [Data (Zenodo)](https://doi.org/10.5281/zenodo.23153537)
 
 ---
 
@@ -297,7 +325,7 @@ A. A. Rahman, **F. S. Nursyafi**, L. S. Aliya, I. M. Hasibuan, Y. Alioes, E. End
 
 ### Bioinformatics & Omics
 
-`Biopython` · `BLAST` · `Sequence Analysis` · `Scanpy` · `AnnData` · `Transcriptomics` · `Single-Cell Analysis`
+`Biopython` · `BLAST` · `Sequence Analysis` · `Scanpy` · `AnnData` · `Transcriptomics` · `Single-Cell Analysis` · `Single-Cell Foundation Models`
 
 ### Biomedical & Mechanistic Modeling
 
