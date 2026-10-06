@@ -207,27 +207,6 @@ An adaptive expert-orchestration framework that integrates multiple **frozen sin
 
 ---
 
-## Consensus QSAR for Systemic & Local Toxicity
-
-**Consensus Machine Learning for Toxicity Prediction**
-
-[![Repository](https://img.shields.io/badge/Repository-View%20Code-181717?style=flat-square&logo=github)](https://github.com/kit-cml/QSAR-Consensus-Systemic_Local_Toxicity)
-
-A reproducible consensus QSAR workflow for systemic and local toxicity prediction.
-
-**Framework**
-- Morgan fingerprints
-- MACCS fingerprints
-- Atom Pair Fingerprints
-- Physicochemical descriptors
-- Random Forest
-- XGBoost
-- Support Vector Machine
-- Cross-validation
-- Individual and consensus-model evaluation
-
----
-
 # Selected Publications
 
 > Journal quartiles below follow the classification recorded in my academic CV.
